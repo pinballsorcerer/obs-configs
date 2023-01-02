@@ -1,0 +1,2 @@
+# obs-configs
+OBS configurations
